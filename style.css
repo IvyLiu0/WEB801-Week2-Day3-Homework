@@ -300,7 +300,7 @@ input[type="submit"]{
     padding: 20px;
 }
 .cliffbox:nth-child(4){
-    padding-bottom: 150px;
+    padding-bottom: 80px;
 }
 section{
     clear: both;
